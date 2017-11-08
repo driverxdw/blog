@@ -1,7 +1,10 @@
 # Hexo Configuration
 ## Docs: https://hexo.io/docs/configuration.html
 ## Source: https://github.com/hexojs/hexo/
-
+#chongwu
+live2d:
+    model: Gantzert_Felixander
+    bottom: -30
 
 # Site
 title: 修~
